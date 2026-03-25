@@ -69,12 +69,13 @@ pip install -r requirements.txt
 ```
 Due to GitHub file size limitations (100MB max), the model is hosted externally.
 
-Download the model from Google Drive:
+Download the model from Google Drive: https://drive.google.com/uc?id=1wBw4BlUpGQn4hjFAIf3asOCvZGe5_e8n&export=download
 
 👉 Download Mistral 7B Model
 
-After downloading, place the file in the project root directory:
+After downloading, place the file in the project root directory.
 ```
+
 mistral-7b-instruct-v0.1.Q4_K_M.gguf
 ⚠️ Important
 
