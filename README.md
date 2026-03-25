@@ -65,6 +65,21 @@ cd personalised_QA_Bot
 pip install -r requirements.txt
 ```
 
+#📥 Download the Model
+
+Due to GitHub file size limitations (100MB max), the model is hosted externally.
+
+Download the model from Google Drive:
+
+👉 Download Mistral 7B Model
+
+After downloading, place the file in the project root directory:
+
+mistral-7b-instruct-v0.1.Q4_K_M.gguf
+⚠️ Important
+
+## Make sure the model file is in the same folder as app.py, otherwise the program will not run.
+
 ---
 
 # 📥 Download the AI Model
